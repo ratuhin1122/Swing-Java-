@@ -1,1 +1,0 @@
-private final Point center = new Point(width / 2, height / 2 - 60);
